@@ -1,0 +1,4 @@
+.vscode/
+test/utxo.ldb/
+test/*.dat
+test/blocks.txt
